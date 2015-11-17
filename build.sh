@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#ask for contributions
 VERSION="1.5.5-SNAPSHOT"
 
 LTS_BIN="${BASH_SOURCE-$0}"
